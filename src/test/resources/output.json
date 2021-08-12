@@ -1,0 +1,8 @@
+{
+  "validLines" : 10,
+  "invalidLines" : 0,
+  "bestRatedProducts" : [ "product-03", "product-01", "product-02" ],
+  "worstRatedProducts" : [ "product-04", "product-02", "product-05" ],
+  "mostRatedProduct" : "product-01",
+  "lessRatedProduct" : "product-02"
+}

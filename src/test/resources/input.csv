@@ -1,0 +1,10 @@
+buyer01,shop01,product-01,4
+buyer02,shop02,product-01,3
+buyer03,shop03,product-01,3
+buyer04,shop01,product-02,3
+buyer01,shop02,product-03,5
+buyer02,shop02,product-03,2
+buyer01,shop01,product-04,1
+buyer02,shop02,product-04,2
+buyer03,shop03,product-04,1
+buyer04,shop01,product-05,3
